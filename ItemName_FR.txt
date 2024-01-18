@@ -1,0 +1,13 @@
+ItemName_FR = {
+	ItemName_Base.Int4700Bullbar2 = "International 4700 Pare-buffle",
+	ItemName_Base.Int4700FrontDoor2 = "International 4700 Portière blindée",
+	ItemName_Base.Int4700FrontWheel2 = "International 4700 Roue avant",
+	ItemName_Base.Int4700FrontWindow2 = "International 4700 Vitre avant pare-balles",
+	ItemName_Base.Int4700Hood2 = "International 4700 Capot",
+	ItemName_Base.Int4700RearDoor2 = "International 4700 Portières arrière blindées",
+	ItemName_Base.Int4700RearWheel2 = "International 4700 Roues arrière",
+	ItemName_Base.Int4700RearWindow2 = "International 4700 Vitres de portière arrière pare-balles",
+	ItemName_Base.Int4700Seat2 = "International 4700 Siège",
+	ItemName_Base.Int4700SideWindow2 = "International 4700 Vitres latérales pare-balles",
+	ItemName_Base.Int4700Windshield2 = "International 4700 Pare-brise pare-balles",
+}
