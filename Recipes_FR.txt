@@ -1,0 +1,5 @@
+Recipes_FR = {
+	Recipe_Craft_International_4700_Rear_Windshield = "Fabriquer Pare-brise arrière",
+	Recipe_Craft_International_4700_Window = "Fabriquer Vitre",
+	Recipe_Craft_International_4700_Windshield = "Fabriquer Pare-brise",
+}
