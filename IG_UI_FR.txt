@@ -1,0 +1,8 @@
+IG_UI_FR = {
+
+    IGUI_VehicleNameInt4700Arm = "Fourgon Blindé International 4700",
+
+    IGUI_VehiclePartInt4700ArmBodyBar = "International 4700 Pare-buffle",
+
+	IGUI_CraftCategory_Car Mods = "Fourgon Blindé International 4700",
+}
